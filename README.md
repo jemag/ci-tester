@@ -22,6 +22,7 @@ Subsection 1
 Subsection 2
 
 Add list of things to mention:
+
 - item
 - item2
 - item3
