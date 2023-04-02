@@ -30,8 +30,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           if [[ -n $(git status -s -- $DOC_FOLDER) ]]; then
-            git diff
-            git add .
+            git add $DOC_FOLDER
             git commit -m "ci: update vimdoc"
             git push
           fi
