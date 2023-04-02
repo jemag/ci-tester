@@ -25,7 +25,10 @@ Other explanation
 
 SUBSECTION ~
 
-Subsection 1 Other Subsection
+Subsection 1
+
+
+OTHER SUBSECTION ~
 
 Subsection 2
 
